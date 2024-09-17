@@ -4,7 +4,7 @@
 const userData = {
   username: 'user1',
   password: 'password123',
-  balance: 1000
+  balance: 10000
 };
 
 // Elements
